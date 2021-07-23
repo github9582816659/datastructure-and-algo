@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Data_Structures_Advance.Binary_Search_Tree;
 
 import java.util.HashSet;
 import java.util.Set;

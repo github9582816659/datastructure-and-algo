@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Aptitude_And_Reasoning.Quantitative_Analysis;
 
 import java.util.HashSet;
 import java.util.Set;

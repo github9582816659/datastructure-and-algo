@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Data_Structures_Basics.Dequeue;
 
 import java.util.HashSet;
 import java.util.Set;

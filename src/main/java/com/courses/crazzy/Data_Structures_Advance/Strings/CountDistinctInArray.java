@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Data_Structures_Advance.Strings;
 
 import java.util.HashSet;
 import java.util.Set;

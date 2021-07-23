@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Aptitude_And_Reasoning.Logical_And_Verbal_Reasoning;
 
 import java.util.HashSet;
 import java.util.Set;

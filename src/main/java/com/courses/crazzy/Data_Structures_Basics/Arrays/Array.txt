@@ -1,0 +1,16 @@
+Operations On Array:
+--------------------
+
+Arrays can do random access using the location (calculate from starting index & ith item need to search) & are cache friendliness ( as all itmes
+are placed consecutively & when cpu tries to fetch data, it used to fetch data around which makes array as best fit for cache)
+
+Insert : O(n)
+Search : O(n) for unsorted array
+         O(log n) for sorted array
+Delete : O(n)
+
+Search ith element : O(1)
+Update ith element : O(1)
+
+Insert at end : O(1)
+Delete at end : O(1)

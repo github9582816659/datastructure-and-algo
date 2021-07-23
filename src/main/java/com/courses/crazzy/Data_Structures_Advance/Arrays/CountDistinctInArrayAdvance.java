@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class CountDistinctInArray {
+public class CountDistinctInArrayAdvance {
 
     // Count Distinct in an Array : Create HashSet which remove duplicates
     public int countDistinctInArray(int[] a) {

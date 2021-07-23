@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Libraries.Java_Lambda_Expressions;
 
 import java.util.HashSet;
 import java.util.Set;

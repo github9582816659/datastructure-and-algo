@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Object_Oriented_Design.Introduciton_To_Classes_And_Objects;
 
 import java.util.HashSet;
 import java.util.Set;

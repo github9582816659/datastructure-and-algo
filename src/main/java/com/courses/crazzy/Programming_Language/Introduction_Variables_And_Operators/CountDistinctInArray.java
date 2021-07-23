@@ -1,4 +1,4 @@
-package com.geekforgeeks.Data_Structures_Advance.Hashing;
+package com.courses.crazzy.Programming_Language.Introduction_Variables_And_Operators;
 
 import java.util.HashSet;
 import java.util.Set;
